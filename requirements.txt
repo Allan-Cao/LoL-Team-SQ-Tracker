@@ -1,0 +1,6 @@
+pygsheets
+python-dotenv
+pandas
+numpy
+cassiopeia
+git+https://github.com/Allan-Cao/MatchLib.git
